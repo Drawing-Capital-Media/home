@@ -1,5 +1,41 @@
 const posts = [
   {
+    title: 'Disruptive Innovation: The Fuel that Powers Growth',
+    href: 'https://drawingcapital.substack.com/p/disruptive-innovation-the-fuel-that',
+    category: { name: 'Newsletter', href: '#' },
+    description:
+      'In this newsletter we review the innovation-fueled paradigm shift taking place in financial markets and its impact across market sectors.',
+    date: 'Sept 25, 2020',
+    datetime: '2020-09-25',
+    imageUrl:
+      'https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9a74bb00-d07b-46b2-bb2d-6558f54f842e_1600x1067.jpeg',
+    readingTime: '4 min',
+  },
+  {
+    title: 'US and Chinese Big Tech',
+    href: 'https://drawingcapital.substack.com/p/us-and-chinese-big-tech',
+    category: { name: 'Newsletter', href: '#' },
+    description:
+      'This week, we compare and contrast tech-centric companies between the US and China to understand their differences and similarities.',
+    date: 'Sept 18, 2020',
+    datetime: '2020-09-18',
+    imageUrl:
+      'https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F916f5e23-5d6a-4a23-94d9-6dfa6ad81d79_1701x816.png',
+    readingTime: '7 min',
+  },
+  {
+    title: 'Artificial Intelligence for Medical Imaging',
+    href: 'https://drawingcapital.substack.com/p/artificial-intelligence-for-medical',
+    category: { name: 'Newsletter', href: '#' },
+    description:
+      'This week, we delve into artificial intelligence (“AI”), its promising uses for medical imaging, and catalysts for improving healthcare.',
+    date: 'Sept 11, 2020',
+    datetime: '2020-09-11',
+    imageUrl:
+      'https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ad72a67-fb49-401f-a14e-f104d094dbe4_1520x820.png',
+    readingTime: '5 min',
+  },
+  {
     title: 'Key Trends for Tesla',
     href: 'https://drawingcapital.substack.com/p/key-trends-for-tesla',
     category: { name: 'Newsletter', href: '#' },
