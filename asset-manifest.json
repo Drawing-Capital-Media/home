@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Drawing-Capital-Media/home.git/static/css/main.47358f37.css",
+    "main.js": "/Drawing-Capital-Media/home.git/static/js/main.d5914f11.js",
+    "static/js/787.581107dc.chunk.js": "/Drawing-Capital-Media/home.git/static/js/787.581107dc.chunk.js",
+    "static/media/logo-sq.svg": "/Drawing-Capital-Media/home.git/static/media/logo-sq.193c2983d2b17f055a2bf062e1813b55.svg",
+    "index.html": "/Drawing-Capital-Media/home.git/index.html",
+    "main.47358f37.css.map": "/Drawing-Capital-Media/home.git/static/css/main.47358f37.css.map",
+    "main.d5914f11.js.map": "/Drawing-Capital-Media/home.git/static/js/main.d5914f11.js.map",
+    "787.581107dc.chunk.js.map": "/Drawing-Capital-Media/home.git/static/js/787.581107dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47358f37.css",
+    "static/js/main.d5914f11.js"
+  ]
+}
